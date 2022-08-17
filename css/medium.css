@@ -1,0 +1,26 @@
+body{
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+.bg-yellow{
+    background-color:#FFC017; 
+}
+.border-bottom-dark{
+    border-bottom:solid 1px rgba(41, 41, 41, 1);
+}
+.btn-dark-1{
+    background: rgba(25, 25, 25, 1);
+    color: rgba(255, 255, 255, 1);
+    border-radius: 99em;
+    border-style: solid;
+}
+a{
+    text-decoration: none;
+}
+.text-color{
+    color: rgba(117, 117, 117, 1);
+}
+.btn-2{
+    border-radius:100px ;
+}
